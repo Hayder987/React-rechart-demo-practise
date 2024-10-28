@@ -1,0 +1,23 @@
+[
+    { "id": 1, "name": "Redmi Note 10", "bdprice": 21890, "indian_price": 20168 },
+    { "id": 2, "name": "Galaxy A72", "bdprice": 49390, "indian_price": 46008 },
+    { "id": 3, "name": "Mi 11", "bdprice": 82490, "indian_price": 79000 },
+    { "id": 4, "name": "Galaxy S21 Ultra", "bdprice": 131890, "indian_price": 105500 },
+    { "id": 5, "name": "Galaxy M32", "bdprice": 21890, "indian_price": 17000 },
+    { "id": 6, "name": "Mi 10", "bdprice": 76890, "indian_price": 66750 },
+    { "id": 7, "name": "Galaxy A52", "bdprice": 38390, "indian_price": 44250 },
+    { "id": 8, "name": "Poco X3 Pro", "bdprice": 27390, "indian_price": 25250 },
+    { "id": 9, "name": "Galaxy Z Flip 3", "bdprice": 109890, "indian_price": 99375 },
+    { "id": 10, "name": "Redmi Note 10 Pro", "bdprice": 32890, "indian_price": 27125 },
+    { "id": 11, "name": "Galaxy S21", "bdprice": 87890, "indian_price": 76250 },
+    { "id": 12, "name": "Mi 11 Ultra", "bdprice": 109890, "indian_price": 157850 },
+    { "id": 13, "name": "Galaxy Note 20", "bdprice": 109890, "indian_price": 112000 },
+    { "id": 14, "name": "Galaxy A32", "bdprice": 30690, "indian_price": 29750 },
+    { "id": 15, "name": "Mi A3", "bdprice": 21890, "indian_price": 24000 },
+    { "id": 16, "name": "Poco F3", "bdprice": 38390, "indian_price": 32625 },
+    { "id": 17, "name": "Galaxy Z Fold 3", "bdprice": 197890, "indian_price": 165550 },
+    { "id": 18, "name": "Galaxy F52", "bdprice": 33000, "indian_price": 26375 },
+    { "id": 19, "name": "Redmi 9", "bdprice": 16390, "indian_price": 14250 },
+    { "id": 20, "name": "Mi 10T", "bdprice": 54890, "indian_price": 47500 }
+  ]
+  
